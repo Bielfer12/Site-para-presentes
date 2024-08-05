@@ -1,0 +1,31 @@
+body {
+    background-color: #FFC0CB;
+    height: auto;
+    width: auto;
+    display: flex;
+  
+
+}
+
+#container{
+    border: solid 5px #FF748C;
+    margin: 0px 300px 0px 300px;
+    border-radius: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+#head img {
+    margin-top: 20px;
+    border-radius: 30px;
+    border: solid 5px #FF748C;
+}
+
+#head p {
+    margin: 10px 160px 10px 160px;
+}
+
